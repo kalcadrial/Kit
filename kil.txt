@@ -3,4 +3,6 @@ kanti
 kolpi
 krost
 krisp
+kuant
+koira
 
